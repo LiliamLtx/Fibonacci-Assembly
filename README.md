@@ -4,16 +4,16 @@
 
 **A proposta era:**
 Escrever código-fonte MIPS/MARS contendo:
-	1. Implementação de função para determinar o *n-ésimo* termo da Sequência de Fibonacci;
-	2. Usar a função implementada no item anterior para determinar o 30° número de Fibonacci;
-	3. Implementação de função para determinar a razão áurea phi: φ;
-	4. Usar a função implementada acima para determinar φ usando F_41 e F_40;
+	1Implementação de função para determinar o *n-ésimo* termo da Sequência de Fibonacci;
+	2Usar a função implementada no item anterior para determinar o 30° número de Fibonacci;
+	3Implementação de função para determinar a razão áurea phi: φ;
+	4Usar a função implementada acima para determinar φ usando F_41 e F_40;
  
  **No final da execução do código fonte:**
-	-O valor do 30° termo da Série de Fibonacci deve estar armazenado no registrador $s1;
-	-O valor do 41° termo da Série de Fibonacci deve estar em $s2;
-	-O valor do 40° termo da Série de Fibonacci deve estar em $s3;
-	-O valor da razão áurea φ (phi) deve  estar em $f0;
+	- O valor do 30° termo da Série de Fibonacci deve estar armazenado no registrador $s1;
+	- O valor do 41° termo da Série de Fibonacci deve estar em $s2;
+	- O valor do 40° termo da Série de Fibonacci deve estar em $s3;
+	- O valor da razão áurea φ (phi) deve  estar em $f0;
 
 **Fotos do cógico e sua execução:**
 ![Fibonacci](https://github.com/LiliamLtx/Fibonacci-Assembly/assets/162481479/a8cdb6c1-1a19-4dba-aec0-7eb6bb1c04ca)
