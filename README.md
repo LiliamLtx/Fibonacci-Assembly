@@ -4,10 +4,10 @@
 
 **A proposta era:**
 Escrever código-fonte MIPS/MARS contendo:
-1 Implementação de função para determinar o *n-ésimo* termo da Sequência de Fibonacci;
-2 Usar a função implementada no item anterior para determinar o 30° número de Fibonacci;
-3 Implementação de função para determinar a razão áurea phi: φ;
-4 Usar a função implementada acima para determinar φ usando F_41 e F_40;
+1. Implementação de função para determinar o *n-ésimo* termo da Sequência de Fibonacci;
+2. Usar a função implementada no item anterior para determinar o 30° número de Fibonacci;
+3. Implementação de função para determinar a razão áurea phi: φ;
+4. Usar a função implementada acima para determinar φ usando F_41 e F_40;
  
  **No final da execução do código fonte:**
  - O valor do 30° termo da Série de Fibonacci deve estar armazenado no registrador $s1;
