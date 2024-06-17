@@ -1,5 +1,5 @@
-**# Fibonacci-Mips**
- Esse trabalho propõe a implementação da sequência de Fibonacci e o cálculo da proporção áurea para dentro da área da Tecnologia da Informação, especificamente dentro da linguagem de montagem Assembly Mips, a fim de explorar a eficiência e a aplicabilidade desses conceitos matemáticos em um ambiente de baixo nível. O objetivo é demonstrar como a Assembly MIPS pode ser utilizada para resolver problemas complexos de maneira otimizada, destacando a importância da arquitetura de computadores.
+**## Fibonacci-Mips**
+Esse trabalho propõe a implementação da sequência de Fibonacci e o cálculo da proporção áurea para dentro da área da Tecnologia da Informação, especificamente dentro da linguagem de montagem Assembly Mips, a fim de explorar a eficiência e a aplicabilidade desses conceitos matemáticos em um ambiente de baixo nível. O objetivo é demonstrar como a Assembly MIPS pode ser utilizada para resolver problemas complexos de maneira otimizada, destacando a importância da arquitetura de computadores.
 
 
 **A proposta era:**
